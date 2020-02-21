@@ -101,6 +101,8 @@
       anchor: Requests_SetExpression
     - title: SetFunctionBreakpoints
       anchor: Requests_SetFunctionBreakpoints
+    - title: SetStepGranularity
+      anchor: Requests_SetStepGranularity
     - title: SetVariable
       anchor: Requests_SetVariable
     - title: Source
@@ -185,6 +187,10 @@
       anchor: Types_StackFrameFormat
     - title: StepInTarget
       anchor: Types_StepInTarget
+    - title: Subsource
+      anchor: Types_Subsource
+    - title: SubsourceElement
+      anchor: Types_SubsourceElement
     - title: Thread
       anchor: Types_Thread
     - title: ValueFormat
